@@ -18,11 +18,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Lenguas y Culturas
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Para llegar mas alto
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -30,9 +30,11 @@ fields:
   - type: text
     name: text
     label: Text
+    default: Call Now
   - type: text
     name: href
     label: Link
+    default: https://radicalwave.github.io/about/
 - type: file
   name: banner_image
   label: Hero Image
