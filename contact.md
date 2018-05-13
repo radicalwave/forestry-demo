@@ -10,6 +10,7 @@ menu:
     identifier: _contact
     url: "/contact/"
     weight: 5
+    title: Contacto
 ---
 ## Hours of Operation
 Belkirk College of Engineering is available:

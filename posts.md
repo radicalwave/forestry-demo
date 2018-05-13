@@ -9,6 +9,7 @@ menu:
     identifier: _posts
     url: "/posts/"
     weight: 4
+    title: Blog
   footer:
     identifier: _posts
     url: "/posts/"

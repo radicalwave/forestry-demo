@@ -8,6 +8,7 @@ menu:
     identifier: _projects
     url: "/projects/"
     weight: 3
+    title: Servicios
   footer:
     identifier: _projects
     url: "/projects/"

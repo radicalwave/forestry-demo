@@ -14,6 +14,7 @@ menu:
     identifier: _about
     url: "/about/"
     weight: 2
+    title: Nosotros
   footer:
     identifier: _about
     url: "/about/"
