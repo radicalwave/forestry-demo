@@ -1,5 +1,5 @@
 ---
-title: Martin Marino
+title: Alejandro Guerrero
 date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
@@ -8,9 +8,9 @@ sub_heading: Advisor
 thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
+layout: person
 ---
-
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
+Alejandro is el director general
 
 Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
 
