@@ -11,7 +11,7 @@ menu:
     url: "/contact/"
     weight: 5
 ---
-## Hours of Operation
+## Horario de Atención
 
 Lenguas y Culturas esta disponible en el siguiente horario:
 
