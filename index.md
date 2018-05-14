@@ -1,12 +1,12 @@
 ---
-title: Home
+title: Inicio
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Lenguas y Culturas
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
+- "/uploads/2017/11/13/iwk-logo.png"
 - "/uploads/2017/11/13/nysed.png"
+- "/uploads/2017/11/13/stem.png"
 services:
 - description: Investigacion colaborativa para innovar en el sector educativo.
   heading: IELTS
@@ -15,7 +15,7 @@ services:
     IELTS y TOEFL.
   heading: Certificaciones
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Aprendizaje Acelerado
 textline: Lenguas y Culturas - Aprendizaje Acelerado
 hero_button:
   text: Learn more
@@ -26,5 +26,4 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
-    title: Inicio
 ---
