@@ -6,7 +6,7 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Lenguas y Culturas
   config:
     required: true
 - type: textarea
@@ -30,7 +30,7 @@ fields:
   - type: text
     name: text
     label: Text
-    default: Call Now
+    default: ''
   - type: text
     name: href
     label: Link
