@@ -18,7 +18,7 @@ services:
 sub_heading: Aprendizaje Acelerado
 textline: Lenguas y Culturas - Aprendizaje Acelerado
 hero_button:
-  text: Learn more
+  text: Conozcanos
   href: "/about"
 show_news: true
 menu:
