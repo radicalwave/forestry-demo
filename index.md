@@ -11,9 +11,9 @@ services:
 - description: Investigacion colaborativa para innovar en el sector educativo.
   heading: IELTS
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Procesos de preparacion para presentar examenes de certificacion para
+    IELTS y TOEFL.
+  heading: Certificaciones
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
 textline: Lenguas y Culturas - Aprendizaje Acelerado
